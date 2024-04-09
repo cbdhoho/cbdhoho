@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=120&section=header&text=MIN%20SEON's%20GITHUB&fontSize=70" width="100%"/>
-
+###✨PROFILES✨
 <a href="https://solved.ac/profile/cbdhoho" target="_blank"><img src="https://img.shields.io/badge/BaekJoon-FFFFFF?style=flat-square&logo=Open Collective&logoColor=#7FADF2"/></a>
