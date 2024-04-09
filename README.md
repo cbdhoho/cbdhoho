@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=120&section=header&text=MIN%20SEON's%20GITHUB&desc=JAVA%10&%10PYTHON&fontSize=70&descSize=30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=120&section=header&text=MIN%20SEON's%20GITHUB&desc=JAVA%10and%10PYTHON&fontSize=70&descSize=30" width="100%"/>
